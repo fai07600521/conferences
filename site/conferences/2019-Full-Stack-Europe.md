@@ -1,10 +1,10 @@
 ---
 title: Full Stack Europe 2019
-url: https://fullstackeurope.com
-cocUrl: https://fullstackeurope.com/code-of-conduct/
-date: 2019-10-23
-endDate: 2019-10-25
-location: Antwerp, Belgium
+url: 'https://fullstackeurope.com'
+cocUrl: 'https://fullstackeurope.com/code-of-conduct/'
+date: 2019-10-25T00:00:00.000Z
+endDate: 2019-10-25T00:00:00.000Z
+location: 'Antwerp, Belgium'
 byline: A conference for every kind of developer.
 ---
 
